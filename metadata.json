@@ -1,0 +1,6 @@
+{
+  "name": "NTIX Tech Solutions",
+  "description": "A comprehensive technology storefront, custom electronics repair tracker, and cyber café services booking platform for NTIX Tech Solutions, located in Kibwezi, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
